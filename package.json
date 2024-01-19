@@ -1,7 +1,7 @@
 {
   "name": "sn-utools",
   "version": "0.0.1",
-  "description": "有用的生产工具方法",
+  "description": "有用的生产工具方法！",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
